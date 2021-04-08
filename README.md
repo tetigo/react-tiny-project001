@@ -4,4 +4,4 @@
 
 ## Demo
 
-[https://tiago-mendes-react001-peoplelist.netlify.app](https://tiago-mendes-react001-peoplelist.netlify.app)
+[https://tiago-mendes-reactproj01-peoplelist.netlify.app](https://tiago-mendes-reactproj01-peoplelist.netlify.app)
